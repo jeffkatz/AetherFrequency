@@ -1,0 +1,20 @@
+
+{
+  "name": "aether-frequency-visualizer",
+  "version": "1.0.0",
+  "dependencies": {
+    "@angular/common": "^19.0.0",
+    "@angular/compiler": "^19.0.0",
+    "@angular/core": "^19.0.0",
+    "@angular/platform-browser": "^19.0.0",
+    "three": "^0.170.0",
+    "d3": "^7.9.0",
+    "gsap": "^3.12.5",
+    "rxjs": "^7.8.1",
+    "tslib": "^2.6.2"
+  },
+  "devDependencies": {
+    "@types/three": "^0.169.0",
+    "@types/d3": "^7.4.3"
+  }
+}
